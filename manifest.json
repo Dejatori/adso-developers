@@ -1,0 +1,18 @@
+{
+  "short_name": "Inicio",
+  "name": "Bienvenidos a este proyecto de ADSO-2560979",
+  "icons": [
+    {
+      "src": "https://crimson-scene-9606.bss.design/assets/img/iconos/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "150x150"
+    },
+    {
+      "src": "https://crimson-scene-9606.bss.design/assets/img/iconos/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "150x150"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "fullscreen"
+}

@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: DroidSerif-Regular
+font link: https://www.fontsquirrel.com/fonts/droid-serif
+font author: Steve Matteson
+font author site: https://twitter.com/@SteveMatteson1
+
+
+icon designer: Icons By Alfredo
+icon designer link: /AlfredoCreates
+        
+{"bg":"#01252C","icon":"#88DF95","font":"#FFFFFF","slogan":"#ffffff"}
+      

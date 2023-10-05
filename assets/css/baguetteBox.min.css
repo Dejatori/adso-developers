@@ -4,7 +4,7 @@
  * @version 1.11.1
  * @url https://github.com/feimosi/baguetteBox.js */
 
- #baguetteBox-overlay {
+#baguetteBox-overlay {
   display: none;
   opacity: 0;
   position: fixed;
@@ -220,7 +220,7 @@
 
 @media (min-width: 768px) {
   .logo {
-    background: url("../img/brandbook/svg/isolated-monochrome-white.svg") center / auto no-repeat;
+    background: url("../../assets/img/brandbook/svg/isolated-monochrome-white.svg") center / auto no-repeat;
     width: 300px;
     height: 36px;
   }
@@ -230,6 +230,7 @@
   .logo-mobile {
     width: 250px;
     height: 36px;
-    background: url("../img/brandbook/svg/isolated-monochrome-white.svg") center / auto no-repeat;
+    background: url("../../assets/img/brandbook/svg/isolated-monochrome-white.svg") center / auto no-repeat;
   }
 }
+

@@ -19,7 +19,7 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 
 MIT License
 
-Copyright (c) [2023] [David Toscano]
+Copyright (c) 2023 David Javier Toscano Rico
 
 Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y de los archivos de documentación asociados (el "Software"), para tratar el Software sin restricciones, incluyendo, sin limitación, los derechos de uso, copia, modificación, fusión, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que se les proporcione el Software a hacerlo, sujeto a las siguientes condiciones:
 
